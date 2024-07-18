@@ -1,7 +1,5 @@
 # Distribuidora
 
-# Distribuidora
-
 Este es un proyecto de ejemplo para una aplicación de distribuidora desarrollada con Spring Boot. La aplicación permite gestionar clientes, productos y pedidos.
 
 ## Características
