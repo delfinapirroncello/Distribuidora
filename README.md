@@ -56,7 +56,7 @@ Copiar código
   "disponible": true
 }
 
-**Crear un Pedido**
+**Crear un Producto**
 - **URL: POST /pedidos/create
 - **Body:
  ```json
