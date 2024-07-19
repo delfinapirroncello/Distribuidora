@@ -42,7 +42,11 @@ Este es un proyecto de ejemplo para una aplicación de distribuidora desarrollad
 - **Body**:
   ```json
   {
-    "nombre": "Juan Perez"
+    "id": "1",
+    "nombre": "Juan Perez",
+    "direccion": "San Juan 1242",
+    "telefono": "3453451234",
+    "email": "juanperez@gmail.com"
   }
 
 **Crear un Producto**
