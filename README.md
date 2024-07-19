@@ -48,23 +48,21 @@ Este es un proyecto de ejemplo para una aplicación de distribuidora desarrollad
     "telefono": "3453451234"
   }
 
-**Crear un Producto**
-- **URL: POST /productos/create
-- **Body:
+### Crear un Producto
+- **URL**: POST /productos/create
+- **Body**:
  ```json
-Copiar código
-{
-  "nombre": "Producto A",
-  "precio": 100.0,
-  "disponible": true
-}
+  {
+   "nombre": "Producto A",
+   "precio": 100.0,
+   "disponible": true
+  }
 
-**Crear un Pedido**
+### Crear un Pedido
 - **URL**: POST /pedidos/create
 - **Body**:
-```json
-Copiar código
-{
-  "clienteId": 1,
-  "productosIds": [1, 2, 3]
-}
+  ```json
+  {
+    "clienteId": 1,
+    "productosIds": [1, 2, 3]
+  }
