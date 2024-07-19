@@ -59,11 +59,11 @@ Copiar código
   "disponible": true
 }
 
-## Crear un Pedido
-
-**URL**: `POST /pedidos/create`
-**Body**:
+**Crear un Pedido**
+- **URL**: POST /pedidos/create
+- **Body**:
 ```json
+Copiar código
 {
   "clienteId": 1,
   "productosIds": [1, 2, 3]
