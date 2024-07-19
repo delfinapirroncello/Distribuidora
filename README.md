@@ -44,9 +44,8 @@ Este es un proyecto de ejemplo para una aplicación de distribuidora desarrollad
   {
     "id": "1",
     "nombre": "Juan Perez",
-    "direccion": "San Juan 1242",
-    "telefono": "3453451234",
-    "email": "juanperez@gmail.com"
+    "email": "juanperez@gmail.com",
+    "telefono": "3453451234"
   }
 
 **Crear un Producto**
