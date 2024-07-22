@@ -47,22 +47,25 @@ Este es un proyecto de ejemplo para una aplicación de distribuidora desarrollad
     "email": "juanperez@gmail.com",
     "telefono": "3453451234"
   }
+  ```
 
 ### Crear un Producto
 - **URL**: POST /productos/create
 - **Body**:
- ```json
+```json
   {
    "nombre": "Producto A",
    "precio": 100.0,
    "disponible": true
   }
+```
 
 ### Crear un Pedido
 - **URL**: POST /pedidos/create
 - **Body**:
-  ```json
+```json
   {
     "clienteId": 1,
     "productosIds": [1, 2, 3]
   }
+```
