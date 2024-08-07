@@ -21,7 +21,6 @@ public class Cliente {
 
     // Constructor
 
-
     public Cliente() {
     }
 
