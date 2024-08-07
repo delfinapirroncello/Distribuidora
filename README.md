@@ -9,12 +9,6 @@ Este es un proyecto de ejemplo para una aplicación de distribuidora desarrollad
 - **Gestión de Pedidos**: Crear y listar pedidos con múltiples productos y clientes asociados.
 - **Documentación REST**: Endpoints RESTful para interactuar con los recursos de la aplicación.
 
-## Requisitos
-
-- Java 17 o superior
-- Maven
-- Postman
-
 ## Endpoints
 ### Clientes
 - **GET /clientes**: Lista todos los clientes.
